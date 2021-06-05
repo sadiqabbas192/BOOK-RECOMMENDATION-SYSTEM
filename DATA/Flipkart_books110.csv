@@ -1,0 +1,111 @@
+,book_id,title,author,lang,ratings,tags
+0,1,Birds of India : Pakistan Nepal Bhutan and Srilanka, unknown,English,4.5,High School
+1,2,Sampurna Chanakya Neeti, Aachrya Vishwamitra Sharma,Hindi,4.4,High School
+2,3,Indian Navy Secondary SSR Guide 2019, unknown,English,4.3,High School
+3,4,Objective Ncert at Your Fingertips for Neet-Aiims - Bio..., unknown,English,4.6,High School
+4,5,Bhartiya Nausena Senior 2ary (SSR) 2019, Paperback,Hindi,4.3,High School
+5,6,Objective Ncert at Your Fingertips for class XI+XII - C..., Paperback, unknown,4.5,High School
+6,7,Target High, Paperback, unknown,4.5,High School
+7,8,"Diseases of Ear, Nose and Throat", Paperback, Dhingra P. L.,4.5,High School
+8,9,Concepts of Phyics: v. 1, Paperback, Verma H.C.,4.5,High School
+9,10,"Robbins & Cotran Pathologic Basis of Disease, 10e: Sout...", FRCPath Dr. Kumar Vinay, MBBS,4.6,High School
+10,11,"Pharmacology for Medical Graduates, 4th Updated Edition", Dr. Shanbhag Tara V.,English,4.5,High School
+11,12,Ghai Essential Pediatrics - Ghai Essential Pediatrics, Paul V.K.,English,4.6,High School
+12,13,Mathematics Textbook for Class XI, unknown,English,4.2,High School
+13,14,A Naturalist's Guide To The Reptiles Of India, Das Indraneil,English,4.3,High School
+14,15,Ross and Wilson Anatomy and Physiology in Health and Il..., BSc PhD RGN Waugh Anne,English,4.5,High School
+15,16,Essentials of Medical Physiology - Essentials of Medica..., Sembulingam K,English,4.6,High School
+16,17,Fast Track Objective Arithmetic, Verma Rajesh,English,4.5,High School
+17,18,Essentials of Medical Microbiology, Sastry S Apurba,English,4.5,High School
+18,19,Ananthanarayan and Paniker's Textbook of Microbiology, C.K. Jayaram Paniker R. Ananthanarayan,English,4.4,High School
+19,20,"A Naturalist's Guide to the Trees & Shrubs of India, Pa...", Sachdeva Pardeep,English,4.2,High School
+20,21,33 Years Neet-Aipmt Chapterwise Solutions - Physics 202..., unknown,English,4.6,High School
+21,22,Essentials of Medical Pharmacology, Tripathi KD,English,4.5,High School
+22,23,Physics Galaxy: Advanced Illustration in Physics 1 Edit..., Arora Ashish,English,4.5,High School
+23,24,A Naturalist's Guide to the Mammals of India, Grewal Bikram,English,4.3,High School
+24,25,SRB's Manual of Surgery, Bhat M Sriram,English,4.5,High School
+25,26,Problems in Physical Chemistry for Jee Main & Advanced, Avasthi Narendra,English,4.5,High School
+26,27,Lucent's Samanya Gyan, Singh S K,Hindi,4.4,High School
+27,28,Objective Ncert at Your Fingertips for Neet-Aiims - Phy..., unknown,English,4.5,High School
+28,29,Understanding Physics for Jee Main and Advanced Mechani..., Pandey D.C.,English,4.5,High School
+29,30,Why We Sleep, Walker Matthew,English,4.5,High School
+30,31,BD Chaurasia's Handbook of General Anatomy, Garg Krishna,English,4.6,High School
+31,32,33 Years Neet-Aipmt Chapterwise Solutions - Chemistry 2..., unknown,English,4.6,High School
+32,33,Davidson's Principles and Practice of Medicine Internat..., unknown,English,4.5,High School
+33,34,Physics Galaxy 2021, Arora Ashish,English,4.6,High School
+34,35,Law of Torts with Consumer Protection Act, Bangia R.K.,English,4.5,High School
+35,36,Understanding Physics for Jee Main and Advanced Electri..., Pandey D.C.,English,4.6,High School
+36,37,33 Years Neet-Aipmt Chapterwise Solutions - Biology 202..., unknown,English,4.6,High School
+37,38,Ubd1960 Errorless Physics for Neet as Per New Pattern b..., unknown,English,4.5,High School
+38,39,Advanced Problems in Organic Chemistry for Jee (with So..., Chauhan M.S.,English,4.4,High School
+39,40,"Hurst's the Heart, 14th Edition: Two Volume Set", Fuster Valentin,English,5,High School
+40,41,Alex Rider 10 Book Collection, Horowitz Anthony,English,4.6,Action And Adventure Books
+41,42,"A Bride, A Murder and a trail of blood - A Bride, A Mur...", Laxmi Natraj,English,5,Action And Adventure Books
+42,43,The Magic Of The Lost Temple, Murty Sudha,English,5,Action And Adventure Books
+43,44,Haunted Castle #46, Stilton Geronimo,English,4.4,Action And Adventure Books
+44,45,The Book Thief, Zusak Markus,English,5,Action And Adventure Books
+45,46,Percy Jackson and the Battle of the Labyrinth (Book 4), Riordan Rick,English,4,Action And Adventure Books
+46,47,Percy Jackson and the Titan's Curse (Book 3), Riordan Rick,English,4.5,Action And Adventure Books
+47,48,The Lost Hero (Heroes of Olympus Book 1), Riordan Rick,English,5,Action And Adventure Books
+48,49,The Son of Neptune (Heroes of Olympus Book 2), Riordan Rick,English,5,Action And Adventure Books
+49,50,Percy Jackson and the Sea of Monsters (Book 2), Riordan Rick,English,4.5,Action And Adventure Books
+50,51,The Tyrant's Tomb (The Trials of Apollo Book 4), Riordan Rick,English,4,Action And Adventure Books
+51,52,The Dragon of Fortune - An Epic Kingdom of Fantasy Adve..., Geronimo Stilton,English,3,Action And Adventure Books
+52,53,Percy Jackson and the Last Olympian (Book 5), Riordan Rick,English,4.5,Action And Adventure Books
+53,54,A sip of Love & A sip of Coffee, Ganga Bharani,English,4,Action And Adventure Books
+54,55,The Phoenix of Destiny, Stilton Geronimo,English,4,Action And Adventure Books
+55,56,Haroun And The Sea Of Stories, unknown,English,4.9,Action And Adventure Books
+56,57,Shoot. Dive. Fly., Rawat Rachna Bisht,English,4.8,Action And Adventure Books
+57,58,Cinderella Is Dead, Bayron Kalynn,English,4.6,Action And Adventure Books
+58,59,Percy Jackson and the Greek Heroes, Riordan Rick,English,4.4,Action And Adventure Books
+59,60,Khel Khallas, Vivek Agrawal,Hindi,4.6,Action And Adventure Books
+60,61,Rowley Jefferson's Awesome Friendly Spooky Stories, Kinney Jeff,English,4.7,Action And Adventure Books
+61,62,The Hidden Oracle (The Trials of Apollo Book 1), Riordan Rick,English,4.7,Action And Adventure Books
+62,63,TELL ME YOUR DREAMS, Sidney Sheldon,English,4.7,Action And Adventure Books
+63,64,The Adventure of Tom Sawyer - The Adventure of Tom Sawy..., Twain Mark,English,4.7,Action And Adventure Books
+64,65,Matilda, Dahl Roald,English,4.6,Action And Adventure Books
+65,66,The Battle for Crystal Castle, Stilton Geronimo,English,4.8,Action And Adventure Books
+66,67,The Serpent's Shadow (The Kane Chronicles Book 3), Riordan Rick,English,4.6,Action And Adventure Books
+67,68,Amazing Voyage #3, Stilton Geronimo,English,4.7,Action And Adventure Books
+68,69,Secret Seven: 11: Secret Seven Fireworks, Blyton Enid,English,4.3,Action And Adventure Books
+69,70,Percy Jackson and the Greek Gods, Riordan Rick,English,4.6,Action And Adventure Books
+70,71,The Dark Prophecy (The Trials of Apollo Book 2), Riordan Rick,English,4.5,Action And Adventure Books
+71,72,Five On A Treasure Island, Blyton Enid,English,4.7,Action And Adventure Books
+72,73,9: Five Fall Into Adventure, Blyton Enid,English,4.5,Action And Adventure Books
+73,74,Lord of the Flies, Golding William,English,4.6,Action And Adventure Books
+74,75,The House of Hades (Heroes of Olympus Book 4), Riordan Rick,English,4.7,Action And Adventure Books
+75,76,Malory Towers: Second Form, Blyton Enid,English,5,Action And Adventure Books
+76,77,The Cloud Castle, Thea Stilton,English,4.7,Action And Adventure Books
+77,78,One Of Us Is Next, McManus Karen M.,English,4.6,Action And Adventure Books
+78,79,One Of Us Is Lying, McManus Karen M.,English,4.5,Action And Adventure Books
+79,80,Famous Five: 2: Five Go Adventuring Again, Blyton Enid,English,4.6,Action And Adventure Books
+80,81,Effective Implementation of Quality Management Systems, unknown,English,4.6,Action And Adventure Books
+81,82,Mechanical Engineering, Khurmi R. S.,English,4.7,Action And Adventure Books
+82,83,Conventional & Objective Type Questions & Answers on Me..., Jain R.K.,English,4.6,Action And Adventure Books
+83,84,A Handbook for Mechanical Engineering, unknown,English,4.6,Action And Adventure Books
+84,85,Gate 2021 Mechanical Engineering Previous Solved Papers, unknown,English,4.7,Action And Adventure Books
+85,86,Emerging Trends in Mechanical Engineering (22652), Mr Maroof MD,English,4.7,Action And Adventure Books
+86,87,Design Data Handbook for Mechanical Engineers in SI and..., Mahadevan K.,English,4.5,Action And Adventure Books
+87,88,Theory of Machines, Rattan S.S.,English,4.5,Action And Adventure Books
+88,89,ESE 2021 Mains Examination Mechanical Engineering Conve..., unknown,English,4.4,Action And Adventure Books
+89,90,Internal Combustion Engines 4th  Edition, Ganesan V.,English,4.7,Action And Adventure Books
+90,91,ESE 2021 Preliminary Exam Mechanical Engineering Object..., unknown,English,4.3,Action And Adventure Books
+91,92,ESE 2021 Preliminary Exam, unknown,English,4.6,Action And Adventure Books
+92,93,ESE - 2021 - Mechanical Engineering ESE Topicwise Objec..., unknown,English,4.5,Action And Adventure Books
+93,94,A Textbook of Engineering Mechanics, Khurmi R.S.,English,4.5,Action And Adventure Books
+94,95,Manufacturing Science, Ghosh Amitabha,English,4.6,Action And Adventure Books
+95,96,Manufacturing Technology, Rao P.N.,English,4.6,Action And Adventure Books
+96,97,A Textbook of Fluid Mechanics and Hydraulic Machines, Bansal R. K.,English,5,Action And Adventure Books
+97,98,Theory of Machines, Khurmi R. S.,English,5,Action And Adventure Books
+98,99,Industrial Hydraulics and Pneumatics (22655), Murgudkar C P,English,4.7,Action And Adventure Books
+99,100,Design of Machine Elements | Fifth Edition,English,Paperback,5,Action And Adventure Books
+100,101,INDUSTRIAL ENGINEERING AND QUALITY CONTROL Course Code ...,English, Paperback,5,Action And Adventure Books
+101,102,A Textbook of Strength of Materials - Mechanics of Soli...,English, Paperback,4.7,Action And Adventure Books
+102,103,ESE 2021 Mechanical Engineering ESE Topicwise Objective...,English, Paperback,5,Action And Adventure Books
+103,104,4400 MCQS : Mechanical Engineering - Practice Book for ...,English, Paperback,5,Action And Adventure Books
+104,105,"Textbook of Hydraulics, Fluid Mechanics and Hydraulic M...",English, Hardcover,4.6,Action And Adventure Books
+105,106,Conventional & Objective Type Questions & Answers on Me...,English, Paperback,5,Action And Adventure Books
+106,107,Thermal Engineering,Paperback, Paperback,5,Action And Adventure Books
+107,108,Heat and Mass Transfer - Fundamentals and Applications ...,English, Yunus A. Cengel,4.7,Action And Adventure Books
+108,109,Design of Machine Elements,English, Paperback,4,Action And Adventure Books
+109,110,Textbook of Machine Design,English, Paperback,5,Action And Adventure Books
