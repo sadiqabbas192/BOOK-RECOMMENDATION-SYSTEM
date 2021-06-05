@@ -142,6 +142,16 @@ def scrap_books_to_df(url, rows):
     i=i+1
 
 
+  df = pd.DataFrame({"title":title[slice(rows)],
+                    "authors":new_authors[slice(rows)],
+                    "ratings":ratings[slice(rows)],
+                    "lang":lang[slice(rows)],
+                    "format":format[slice(rows)],
+                    "tags":tags[slice(rows)]})
+  return df
+
+'''
+  for debugging
   print("-----------------")
   print("title")
   print(title)
@@ -172,16 +182,7 @@ def scrap_books_to_df(url, rows):
   print(tags)
   print(len(tags))
   print("-----------------")
-
-  df = pd.DataFrame({"title":title[slice(rows)],
-                    "authors":new_authors[slice(rows)],
-                    "ratings":ratings[slice(rows)],
-                    "lang":lang[slice(rows)],
-                    "format":format[slice(rows)],
-                    "tags":tags[slice(rows)]})
-  return df
-
-
+  '''
 
 """###**CALLING THE METHOD**"""
 
